@@ -1,10 +1,10 @@
-<h2 align="center">Core-Java-Listing</h2>
+<h2 align="center">Teknik Pemrograman</h2>
 <p align="center">Repositori mengenai tugas listing pada mata kuliah Teknik Pemrograman (2021).</p>
 <div align="center">
-  <a href="https://github.com/Zlarex/Core-Java-Listing/stargazers"><img src="https://img.shields.io/github/stars/Zlarex/Teknik-Pemrograman" alt="Stars Badge"/></a>
-  <a href="https://github.com/Zlarex/Core-Java-Listing/network/members"><img src="https://img.shields.io/github/forks/Zlarex/Teknik-Pemrograman" alt="Forks Badge"/></a>
-  <a href="https://github.com/Zlarex/Core-Java-Listing/pulls"><img src="https://img.shields.io/github/issues-pr/Zlarex/Teknik-Pemrograman" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/Zlarex/Core-Java-Listing/issues"><img src="https://img.shields.io/github/issues/Zlarex/Teknik-Pemrograman" alt="Issues Badge"/></a>
+  <a href="https://github.com/Zlarex/Teknik-Pemrograman/stargazers"><img src="https://img.shields.io/github/stars/Zlarex/Teknik-Pemrograman" alt="Stars Badge"/></a>
+  <a href="https://github.com/Zlarex/Teknik-Pemrograman/network/members"><img src="https://img.shields.io/github/forks/Zlarex/Teknik-Pemrograman" alt="Forks Badge"/></a>
+  <a href="https://github.com/Zlarex/Teknik-Pemrograman/pulls"><img src="https://img.shields.io/github/issues-pr/Zlarex/Teknik-Pemrograman" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/Zlarex/Teknik-Pemrograman/issues"><img src="https://img.shields.io/github/issues/Zlarex/Teknik-Pemrograman" alt="Issues Badge"/></a>
 </div>
 
 ### Daftar Listing
