@@ -8,7 +8,7 @@
 </div>
 
 ### Daftar Listing
-- [Listing 3.6](https://github.com/Zlarex/tekpro/tree/w2/src/listing3_6/BigIntegerTest.java) - BigIntegerTest
-- [Listing 3.7](https://github.com/Zlarex/tekpro/tree/w2/src/listing3_7/RandomDrawing.java) - RandomDrawing
-- [Listing 3.8](https://github.com/Zlarex/tekpro/tree/w2/src/listing3_8/CompoundInterest.java) - CompoundInterest
-- [Listing 3.9](https://github.com/Zlarex/tekpro/tree/w2/src/listing3_9/RandomArray.java) - RandomArray
+- [Listing 3.6](https://github.com/Zlarex/Teknik-Pemrograman/tree/w2/src/listing3_6/BigIntegerTest.java) - BigIntegerTest
+- [Listing 3.7](https://github.com/Zlarex/Teknik-Pemrograman/tree/w2/src/listing3_7/RandomDrawing.java) - RandomDrawing
+- [Listing 3.8](https://github.com/Zlarex/Teknik-Pemrograman/tree/w2/src/listing3_8/CompoundInterest.java) - CompoundInterest
+- [Listing 3.9](https://github.com/Zlarex/Teknik-Pemrograman/tree/w2/src/listing3_9/RandomArray.java) - RandomArray
