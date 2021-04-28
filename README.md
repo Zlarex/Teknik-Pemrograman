@@ -8,8 +8,8 @@
 </div>
 
 ### Daftar Listing
-- [Listing 3.1](https://github.com/Zlarex/tekpro/tree/w1/src/listing3_1/FirstSample.java) - FirstSample
-- [Listing 3.2](https://github.com/Zlarex/tekpro/tree/w1/src/listing3_2/InputTest.java) - InputTest
-- [Listing 3.3](https://github.com/Zlarex/tekpro/tree/w1/src/listing3_3/Retirement.java) - Retirement
-- [Listing 3.4](https://github.com/Zlarex/tekpro/tree/w1/src/listing3_4/Retirement2.java) - Retirement2
-- [Listing 3.5](https://github.com/Zlarex/tekpro/tree/w1/src/listing3_5/BigIntegerTest.java) - BigIntegerTest
+- [Listing 3.1](https://github.com/Zlarex/Teknik-Pemrograman/tree/w1/src/listing3_1/FirstSample.java) - FirstSample
+- [Listing 3.2](https://github.com/Zlarex/Teknik-Pemrograman/tree/w1/src/listing3_2/InputTest.java) - InputTest
+- [Listing 3.3](https://github.com/Zlarex/Teknik-Pemrograman/tree/w1/src/listing3_3/Retirement.java) - Retirement
+- [Listing 3.4](https://github.com/Zlarex/Teknik-Pemrograman/tree/w1/src/listing3_4/Retirement2.java) - Retirement2
+- [Listing 3.5](https://github.com/Zlarex/Teknik-Pemrograman/tree/w1/src/listing3_5/BigIntegerTest.java) - BigIntegerTest
