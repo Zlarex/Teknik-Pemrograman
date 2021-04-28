@@ -8,7 +8,7 @@
 </div>
 
 ### Daftar Listing
-- [Listing 4.1](https://github.com/Zlarex/tekpro/tree/w4/src/listing4_1/CalendarTest.java) - CalendarTest
-- [Listing 4.2](https://github.com/Zlarex/tekpro/tree/w4/src/listing4_2/EmployeeTest.java) - EmployeeTest
-- [Listing 4.3](https://github.com/Zlarex/tekpro/tree/w4/src/listing4_3/StaticTest.java) - Static Test
-- [Listing 4.4](https://github.com/Zlarex/tekpro/tree/w4/src/listing4_4/ParamTest.java) - ParamTest
+- [Listing 4.1](https://github.com/Zlarex/Teknik-Pemrograman/tree/w4/src/listing4_1/CalendarTest.java) - CalendarTest
+- [Listing 4.2](https://github.com/Zlarex/Teknik-Pemrograman/tree/w4/src/listing4_2/EmployeeTest.java) - EmployeeTest
+- [Listing 4.3](https://github.com/Zlarex/Teknik-Pemrograman/tree/w4/src/listing4_3/StaticTest.java) - Static Test
+- [Listing 4.4](https://github.com/Zlarex/Teknik-Pemrograman/tree/w4/src/listing4_4/ParamTest.java) - ParamTest
