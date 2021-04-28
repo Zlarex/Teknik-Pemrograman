@@ -8,6 +8,6 @@
 </div>
 
 ### Daftar Listing
-- [Listing 4.5](https://github.com/Zlarex/tekpro/tree/w5/src/src/listing4_5/ConstructorTest.java) - ConstructorTest
-- [Listing 4.6](https://github.com/Zlarex/tekpro/tree/w5/src/listing4_6/PackageTest.java) - PackageTest
-- [Listing 4.7](https://github.com/Zlarex/tekpro/tree/w5/src/listing4_7/Employee.java) - Employee
+- [Listing 4.5](https://github.com/Zlarex/Teknik-Pemrograman/tree/w5/src/src/listing4_5/ConstructorTest.java) - ConstructorTest
+- [Listing 4.6](https://github.com/Zlarex/Teknik-Pemrograman/tree/w5/src/listing4_6/PackageTest.java) - PackageTest
+- [Listing 4.7](https://github.com/Zlarex/Teknik-Pemrograman/tree/w5/src/listing4_7/Employee.java) - Employee
