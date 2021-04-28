@@ -8,9 +8,9 @@
 </div>
 
 ### Daftar Task
-- [Task 1.1](https://github.com/Zlarex/tekpro/tree/w6/src/task1_1) - The Circle and Cylinder Classes
-- [Task 1.2](https://github.com/Zlarex/tekpro/tree/w6/src/task1_2) - The Circle and Cylinder Classes
-- [Task 1.3](https://github.com/Zlarex/tekpro/tree/w6/src/task1_3) - The Circle and Cylinder Classes
-- [Task 2.1](https://github.com/Zlarex/tekpro/tree/w6/src/task2_1) -  Superclass Shape and it's Subclasses Circle, Rectangle and Square
-- [Task 3.1 - Case 1](https://github.com/Zlarex/tekpro/tree/w6/src/task3_1) - Multiple Inheritance
-- [Task 3.1 - Case 2](https://github.com/Zlarex/tekpro/tree/w6/src/task3_1_interface) - Multiple Inheritance
+- [Task 1.1](https://github.com/Zlarex/Teknik-Pemrograman/tree/w6/src/task1_1) - The Circle and Cylinder Classes
+- [Task 1.2](https://github.com/Zlarex/Teknik-Pemrograman/tree/w6/src/task1_2) - The Circle and Cylinder Classes
+- [Task 1.3](https://github.com/Zlarex/Teknik-Pemrograman/tree/w6/src/task1_3) - The Circle and Cylinder Classes
+- [Task 2.1](https://github.com/Zlarex/Teknik-Pemrograman/tree/w6/src/task2_1) -  Superclass Shape and it's Subclasses Circle, Rectangle and Square
+- [Task 3.1 - Case 1](https://github.com/Zlarex/Teknik-Pemrograman/tree/w6/src/task3_1) - Multiple Inheritance
+- [Task 3.1 - Case 2](https://github.com/Zlarex/Teknik-Pemrograman/tree/w6/src/task3_1_interface) - Multiple Inheritance
