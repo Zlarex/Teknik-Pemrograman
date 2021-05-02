@@ -12,7 +12,7 @@ public class Overload
 	}
 	double demo(double a)
 	{
-		System.out.println("double a:" + a);
+		System.out.println("double a: " + a);
 		return a * a;
 	}
 }

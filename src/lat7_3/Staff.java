@@ -1,8 +1,13 @@
 package lat7_3;
-
+/**
+ * Represents the personnel staff of a particular business.
+ */
 public class Staff
 {
 	StaffMember[] staffList;
+	/**
+	 * Sets up the list of staff members.
+	 */
 	public Staff()
 	{
 		staffList = new StaffMember[8];
@@ -22,6 +27,9 @@ public class Staff
 		((Commision)staffList[7]).addHours(40);
 		((Commision)staffList[7]).addSales(950);
 	}
+	/**
+	 * Pays all staff members.
+	 */
 	public void payday()
 	{
 		double amount;
