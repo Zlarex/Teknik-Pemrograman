@@ -35,6 +35,7 @@ public class Staff
 		double amount;
 		for (int count = 0; count < staffList.length; count++)
 		{
+			System.out.println(staffList[count]);
 			amount = staffList[count].pay();
 			if (amount == 0.0)
 			{
