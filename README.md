@@ -10,4 +10,4 @@
 ### Daftar Task
 - [Latihan 7.1](https://github.com/Zlarex/Teknik-Pemrograman/tree/w7/src/lat7_1) - Dynamic Polymorphism (Run Time)
 - [Latihan 7.2](https://github.com/Zlarex/Teknik-Pemrograman/tree/w7/src/lat7_2) - Static Polymorphism (Compile Time)
-- [Latihan 7.3](https://github.com/Zlarex/Teknik-Pemrograman/tree/w7/src/task7_3) - Another Type of Employee
+- [Latihan 7.3](https://github.com/Zlarex/Teknik-Pemrograman/tree/w7/src/lat7_3) - Another Type of Employee
