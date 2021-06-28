@@ -10,3 +10,5 @@
 - [Pertemuan Ke-7](https://github.com/Zlarex/Teknik-Pemrograman/tree/w7)
 - [Pertemuan Ke-8](https://github.com/Zlarex/Teknik-Pemrograman/tree/w8)
 - [Pertemuan Ke-9](https://github.com/Zlarex/Teknik-Pemrograman/tree/w9)
+- [Pertemuan Ke-10](https://github.com/Zlarex/Teknik-Pemrograman/tree/w10)
+- [Pertemuan Ke-11](https://github.com/Zlarex/Teknik-Pemrograman/tree/w11)
